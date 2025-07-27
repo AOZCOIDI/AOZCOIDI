@@ -1,7 +1,14 @@
 <h1 align="center">Hi 👋, I'm Alejandro Ozcoidi</h1>
-<h3 align="center">👋 Hi! I'm a Data Engineer specialized in Industrial Processes. I combine my background in industrial systems with advanced skills in data analysis, machine learning, and artificial intelligence. My focus is on applying AI, IoT, and cloud technologies to real-world production environments — using sensor networks (Arduino, C/C++), cloud-based pipelines, and data visualization tools like Power BI to optimize industrial performance. Currently, I'm pursuing a Master's degree in Data Science and Computer Vision to deepen my knowledge in applied AI and smart systems. 🧠 Skills: Data Engineering · Machine Learning · Computer Vision · AI · Industrial IoT · Sensor Systems · Power BI · Cloud Computing · Arduino · Python · C/C++ I'm passionate about turning raw industrial data into intelligent, actionable insights.</h3>
+<h4 align="center">Data Engineer specialized in Industrial Processes. I combine my background in industrial systems with advanced skills in data analysis, machine learning, and artificial intelligence.
 
-<h3 align="left">Connect with me:</h3>
+  
+I use AI/ML, IoT, and cloud systems to improve industrial processes with sensors, data pipelines, and tools like Power BI.
+
+
+Currently studying a Master's in Data Science and Computer Vision.
+  
+🧠 Skills: Data Engineering · Machine Learning · Computer Vision · AI · Industrial IoT · Sensor Systems · Power BI · Cloud Computing · Arduino · Python · C/C++ </h4>
+
 <p align="left">
 </p>
 
