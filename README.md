@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alejandro Ozcoidi</h1>
-<h4 align="center">Data Engineer specialized in Industrial Processes. I combine my background in industrial systems with advanced skills in data analysis, machine learning, and artificial intelligence.
+<h6 align="center">Data Engineer specialized in Industrial Processes. I combine my background in industrial systems with advanced skills in data analysis, machine learning, and artificial intelligence.
 
   
 I use AI/ML, IoT, and cloud systems to improve industrial processes with sensors, data pipelines, and tools like Power BI.
